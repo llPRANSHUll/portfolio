@@ -1,0 +1,54 @@
+[
+  {
+    "name": "UniRoomMates",
+    "desc": "Developed a full-stack platform matching international students with compatible roommates, featuring secure login and community engagement.",
+    "image": "uni",
+    "category": "mern",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/llPRANSHUll/UniRoomMates"
+    }
+  },
+  {
+    "name": "Distributed File System",
+    "desc": "Developed a Distributed File System with multi-server support for seamless file storage, retrieval, and management using socket programming.",
+    "image": "command",
+    "category": "mern",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/llPRANSHUll/Command_Cascade"
+    }
+  },
+  {
+    "name": "Car Rental Analysis",
+    "desc": "Developed a CLI tool to compare car rental prices using data scraping, algorithms, and advanced data structures.",
+    "image": "car",
+    "category": "mern",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/llPRANSHUll/Car-Rental"
+    }
+  },
+  {
+    "name": "CalGrade",
+    "desc": "A tool for VIT students to calculate GPA, CGPA, and convert grades to a 4-point scale.",
+    "image": "cal",
+    "category": "mern",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://calgrade.netlify.app/"
+    }
+  },
+  {
+    "name": "Nutritempt",
+    
+    "desc": "Developed an innovative mobile app using Flutter to provide personalized recipe and restaurant menu suggestions based on users’ dietary restrictions and preferences. Built a comprehensive Nutritional Information Database for restaurant dishes to enhance user decision-making. Collaborated closely with restaurant owners to ensure the app’s recommendations aligned with real-world menu offerings. Led a team of 8 as Scrum Master, managing Agile practices, sprint planning, documentation, risk assessments, and conducting market analysis to optimize the app’s features and user engagement.",
+    "image": "nutri",
+    "category": "mern",
+    "links": {
+      "view": "https://instagramernstack.herokuapp.com/",
+      "code": "https://github.com/llPRANSHUll/Nutritempt"
+    }
+  }
+  
+]
